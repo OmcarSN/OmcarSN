@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I’m Omkar Nanaware
 
-<!--
-**OmcarSN/OmcarSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing a Blockchain course at Savitribai Phule Pune University (Second Year).
+💡 Passionate about Blockchain Development, Smart Contracts, and Decentralized Applications (DApps).
 
-Here are some ideas to get you started:
+🚀 Skills & Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Blockchain: Solidity, Smart Contracts, Ethereum
+
+Programming: Java, C
+
+Web Development: HTML, CSS, JavaScript
+
+🌱 Current Focus
+
+Exploring Blockchain use cases in real-world applications
+
+Building decentralized solutions with smart contracts
+
+Improving my knowledge of full-stack development
+
+
+✨ "Code. Build. Decentralize."
