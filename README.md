@@ -1,6 +1,6 @@
 👋 Hi, I’m Omkar Nanaware
 
-🎓 I’m currently pursuing a Blockchain course at Savitribai Phule Pune University (Second Year).
+🎓 I’m currently pursuing a Blockchain course at Savitribai Phule Pune University.
 💡 Passionate about Blockchain Development, Smart Contracts, and Decentralized Applications (DApps).
 
 🚀 Skills & Languages
